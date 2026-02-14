@@ -52,8 +52,8 @@ telegram-scheduler-bot/
 
 ### 1. Clone Repository
 
-git clone https://github.com/yourusername/telegram-scheduler-bot.git  
-cd telegram-scheduler-bot  
+git clone https://github.com/CRAZYMODDER60/WIKI_CLUB.git
+cd WIKI_CLUB  
 
 ---
 
@@ -181,3 +181,4 @@ Schedules table stores:
 
 Aryan Patel  
 Developer and Automation Enthusiast
+
